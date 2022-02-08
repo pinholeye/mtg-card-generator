@@ -34,6 +34,11 @@ IPython
 tensorflow 
 __future__ 
 
+<br>
+Inputs <br>
+
+
+
 ## Usage
 
 It is advised to run the notebook via Google colab (by importing the file) or to execute all cells in jupyter lab. <br>
