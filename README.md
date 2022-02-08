@@ -36,6 +36,9 @@ __future__
 
 <br>
 Inputs <br>
+The input file for the database has to be downlaoded from Googledrive <br>
+https://drive.google.com/drive/folders/1QKIlmwhpDws8LL21aLQih101i3iry7TJ?usp=sharing  <br>
+file_path has to be changed in the code - Section "Data Base" in "generateDataBase()" method - line 2
 
 
 
